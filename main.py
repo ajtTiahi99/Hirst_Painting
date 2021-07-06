@@ -1,13 +1,3 @@
-# import colorgram
-# colors = colorgram.extract('image.jpg', 30)
-# rgb_values = []
-# for color in colors:
-#     r = color.rgb.r
-#     g = color.rgb.g
-#     b = color.rgb.b
-#     rgb_tuple = (r,g,b)
-#     rgb_values.append(rgb_tuple)
-# print(rgb_values)
 
 from turtle import Turtle,Screen
 import random
